@@ -5,6 +5,7 @@ public class kata19 {
         int na = Integer.parseInt(a);
         int nb = Integer.parseInt(b);
         int suma = na + nb;
+
         return String.valueOf(suma);
     }
 }
