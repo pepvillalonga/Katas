@@ -1,5 +1,5 @@
 
-public class kata6 {
+public class kata06 {
 
     public static void main() {
         System.out.println(isSquare(25));

@@ -1,5 +1,5 @@
 
-public class kata4 {
+public class kata04 {
 
     public static void main() {
         System.out.println(michaelPays(50));

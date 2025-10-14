@@ -1,5 +1,5 @@
 
-public class kata1 {
+public class kata01 {
 
     public class LeapYears {
 

@@ -1,5 +1,5 @@
 
-public class kata2 {
+public class kata02 {
 
     public static int sortDesc(final int num) {
 

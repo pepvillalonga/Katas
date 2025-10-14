@@ -1,5 +1,5 @@
 
-public class kata5 {
+public class kata05 {
 
     public static String areYouPlayingBanjo(String name) {
         if (name.toLowerCase().startsWith("r")) {

@@ -1,5 +1,5 @@
 
-public class kata3 {
+public class kata03 {
 
     public static int quadrant(int x, int y) {
         if (x > 0 && y > 0) {

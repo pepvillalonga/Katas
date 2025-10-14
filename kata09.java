@@ -1,5 +1,5 @@
 
-public class kata9 {
+public class kata09 {
 
     public static long digPow(int n, int p) {
         String numStr = Integer.toString(n);
