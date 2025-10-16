@@ -7,8 +7,8 @@ public class kata25 {
     }
 
     public static int solution(int n) {
-        String reverse = new StringBuilder(String.valueOf(n)).reverse().toString();
-        return Integer.parseInt(reverse);
+        String rev = new StringBuilder(String.valueOf(n)).reverse().toString();
+        return Integer.parseInt(rev);
     }
 
 }
