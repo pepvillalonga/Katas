@@ -11,7 +11,6 @@ public class kata30 {
                 if (c.equals(az[i])) {
                     v++;
                     break;
-
                 }
             }
         }
