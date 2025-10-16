@@ -15,7 +15,7 @@
 
 ## Cómo utilizar este repositorio
 1. Clona el repositorio con:  
-   `git clone https://github.com/pvillalongaamoros/Katas.git`
+   `git clone https://github.com/pepvillalonga/Katas.git`
 2. Abre los archivos `.java` en tu editor favorito y ejecuta cada programa individualmente.
 
 ## Próximos objetivos
