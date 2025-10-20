@@ -20,12 +20,7 @@
 
 ## Próximos objetivos
 - Añadir más soluciones de katas.
-- Incluir tests y explicaciones más detalladas.
 
----
 
-*¿Tienes sugerencias? ¡Abre un issue o contáctame!*
 
----
 
-![Imagen decorativa o logo aquí si quieres]
