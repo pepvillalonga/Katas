@@ -1,8 +1,7 @@
 public class kata48 {
     public static void main(String[] args) {
         multiplicacion(6);
-        esPrimo(8);
-        mostrar(esPrimo(8));
+
     }
 
     public static void multiplicacion(int n) {

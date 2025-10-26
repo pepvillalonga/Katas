@@ -8,9 +8,9 @@ public class kata40 {
         Map<Character, Integer> conteo = new HashMap<>();
         for (char c : str.toCharArray()) {
             if (conteo.containsKey(c)) {
-                conteo.put(c, conteo.get(c) + 1); // suma al contador actual
+                conteo.put(c, conteo.get(c) + 1);
             } else {
-                conteo.put(c, 1); // primera aparición
+                conteo.put(c, 1);
             }
         }
         return conteo;
