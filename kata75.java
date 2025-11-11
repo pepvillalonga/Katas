@@ -6,4 +6,14 @@ public class kata75 {
         }
         return min;
     }
+
+    public static String doubleChar(String s) {
+        String[] separado = s.split("");
+        StringBuilder sb = new StringBuilder();
+        for (String letra : separado) {
+            sb.append(letra);
+            sb.append(letra);
+        }
+        return sb.toString();
+    }
 }
